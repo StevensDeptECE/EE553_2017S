@@ -1,0 +1,31 @@
+MODEL
+list of variables
+number of constants (variables not allowed to change during the run
+number of variables
+
+theta	[0..2pi]
+    objective function (length of path)
+
+Variable
+	name
+	value
+	constraints
+
+Nelder-Meade (Amoeba)
+Conjugate Gradient
+MachineLearning
+
+
+Constraints
+
+
+
+Path
+
+Robot
+swivel	theta
+	arm
+	shoulder
+	arm
+	elbow
+	

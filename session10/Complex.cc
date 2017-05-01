@@ -3,7 +3,6 @@
 using namespace std;
 
 template<typename Precision>
-//typedef double Precision;
 class Complex {
 private:
 	Precision real, imag;

@@ -1,0 +1,30 @@
+template functions
+
+template classes
+
+inheritance
+virtual functions
+pure virtual functions   virtual f() = 0;
+
+dynamic memory
+	constructor
+	destructor
+	copy constructor
+	operator =
+		NOT REQUIRED ON TEST (but appreciated) copy and swap
+ 	move constructor (C++11)
+	
+pointers
+	int * p;  pointer
+	const int * q;  readonly pointer
+	int* const s = ;   pointer locked to one spot
+
+	int x[10];   // x is a int* const pointer
+	const int y[10];   // y is const int* const
+
+
+	x[i]  ==  	   *(x+i)
+
+
+	p[-1]	   goes one before a pointer
+
